@@ -1,3 +1,8 @@
+// Starting code written following tutorial from Daniel Shiffman
+// https://thecodingtrain.com/CodingChallenges/125-fourier-series.html
+// Planned additions: additional examples of Fourier Series approximation, adding block wave, formatting changes, etc.
+// Text of HTML is original.
+
 let time = 0;
 let wave = [];
 
